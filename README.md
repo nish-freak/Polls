@@ -1,10 +1,3 @@
-# Polls
-A public site that lets people view polls and vote in them.
-The further addition would be an admin dashboard to view the polls.
+# OntoMining
 
-Using- 
-Django 1.8.2,
-Pyhton 2.7.10,
-SqLite3,
-
-P.S: Its OK not to know it. But if you know it, kill it!
+Large amount of data is ubiquitous in the internet giving the challenges to identify the relevant information from the documents. Marketing or sales people do analysis on their product's reach using surveys, feedback and queries etc. using online forms. All these unstructured text and voluminous data have to be analyzed manually or semi-automatically to understand the context and make decisions on the business. Similarly to buy any products online, people usually search and get opinion on the products from friends before taking their decisions. Whenever a new product is launched in the market, the social networking sites are deluged with reviews and comments about the product. We can exploit this to the advantage of determining the reach of the product among the common mass by applying sentiment analysis over these reviews. The use of this is twofold- (i) The seller gets first-hand information about the product's reach (ii) Buyer can buy the right product for his need. In this paper, we propose a model to store the product information as ontologies, thereby bringing strong relationships among the data stored. We add more semantics by embedding the opinions, determined using sentiment analysis, within the linked data thereby accounting for better reasoning and efficient querying. We propose a method to perform opinion mining on products by extracting the comments on product's features from the reviews posted in a micro-blogging site such as twitter. The sentiment analysis is done on these reviews to rate the product features. These opinions are stored along with the product-feature descriptions in the domain ontology in OWL format. Once the opinions are embedded in the ontology, the model can serve for better reasoning and answering intelligent queries. This information can also be recommended to the people who are in need when they search for similar products which help them to make necessary decisions based on the others' opinions.it!
